@@ -4,6 +4,8 @@ import Ff from '../zai/Ff';
 import Dood from '../zai/Dood';
 import Gol from '../zai/Gol';
 
+import Proj from '../zai/Proj';
+
 import Header from '../components/Header';
 
 function Home() {
@@ -24,6 +26,12 @@ function Home() {
           <Gol />
         </div>
       </main>
+      <aside className={styles.aside}>
+        <div className={styles.gg}>
+          <Proj />
+          <h2>View all ~~></h2>
+        </div>
+      </aside>
     </div>
   );
 }

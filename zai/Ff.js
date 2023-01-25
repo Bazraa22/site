@@ -3,9 +3,12 @@ import React from 'react';
 function Icon() {
   return (
     <svg
+      styles={{
+        marginLeft: 180,
+      }}
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
-      width="469"
+      width="705"
       height="386"
       fill="none"
       viewBox="0 0 469 386"

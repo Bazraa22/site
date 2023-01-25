@@ -3,8 +3,8 @@ import * as React from 'react';
 const SvgComponent = (props) => (
   <svg
     style={{
-      marginTop: -5,
-      marginLeft: 30,
+      marginTop: -15,
+      marginLeft: 150,
     }}
     width={402}
     height={37}

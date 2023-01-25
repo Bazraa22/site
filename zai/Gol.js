@@ -4,7 +4,7 @@ const SvgComponent = (props) => (
   <svg
     style={{
       marginTop: 50,
-      marginLeft: -425,
+      marginLeft: -400,
       // marginRight: 'auto',
     }}
     width={1000}
